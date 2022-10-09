@@ -1,1 +1,1 @@
-printconsole('fusionhook | loading');
+print('fusionhook | loading');
